@@ -71,29 +71,29 @@ Flow Diagram Symbols Used:
 
 User Flow:
 
-[Start]
-↓
-[Open App]
-↓
-[Login/Register]
-↓
-[Browse Restaurants or Reorder?] ← (Decision)
-↓                      ↓
-[Select Restaurant]           [Tap Reorder]
-↓                      ↓
-[Choose Dishes]              [Confirm Order]
-↓
-[Add to Cart]
-↓
-[Choose Delivery Address]
-↓
-[Select Payment Method]
-↓
-[Place Order]
-↓
-[Track Delivery]
-↓
-[Order Delivered → End]
+      [Start]
+        ↓
+    [Open App]
+        ↓
+    [Login/Register]
+        ↓
+    [Browse Restaurants or Reorder?] ← (Decision)
+        ↓                      ↓
+    [Select Restaurant]           [Tap Reorder]
+        ↓                      ↓
+    [Choose Dishes]              [Confirm Order]
+        ↓
+    [Add to Cart]
+        ↓
+    [Choose Delivery Address]
+        ↓
+    [Select Payment Method]
+        ↓
+    [Place Order]
+        ↓
+    [Track Delivery]
+        ↓
+    [Order Delivered → End]
 
 
 
@@ -105,58 +105,58 @@ Method Used: Closed Card Sorting (predefined categories)
 
 Categories Given to Users:
 
-* Home
-* Restaurants
-* Cart
-* Orders
-* Offers & Rewards
-* Profile & Settings
-* Help
+     * Home
+     * Restaurants
+     * Cart
+     * Orders
+     * Offers & Rewards
+     * Profile & Settings
+     * Help
 
 Sample Sorted Cards:
 
-* Find restaurants → Restaurants
-* Apply promo code → Offers & Rewards
-* Payment history → Orders
-* Edit address → Profile & Settings
-* FAQs → Help
-* View current order → Orders
+     * Find restaurants → Restaurants
+     * Apply promo code → Offers & Rewards
+     * Payment history → Orders
+     * Edit address → Profile & Settings
+     * FAQs → Help
+     * View current order → Orders
 
 Site Map Structure:
 
-Home
-├── Recommended Restaurants
-├── Quick Reorder
-└── Ongoing Offers
+    Home
+    ├── Recommended Restaurants
+    ├── Quick Reorder
+    └── Ongoing Offers
 
-Restaurants
-├── Browse by Cuisine
-├── Nearby Restaurants
-└── Top Rated
+    Restaurants
+    ├── Browse by Cuisine
+    ├── Nearby Restaurants
+    └── Top Rated
 
-Cart
-├── Selected Items
-├── Apply Coupon
-└── Checkout
+    Cart
+    ├── Selected Items
+    ├── Apply Coupon
+    └── Checkout
 
-Orders
-├── Current Order
-├── Order History
-└── Track Delivery
+    Orders
+    ├── Current Order
+    ├── Order History
+    └── Track Delivery
 
-Offers & Rewards
-├── Available Coupons
-└── Reward Points
+    Offers & Rewards
+    ├── Available Coupons
+    └── Reward Points
 
-Profile & Settings
-├── Edit Profile
-├── Address Book
-├── Payment Options
-└── Logout
+    Profile & Settings
+    ├── Edit Profile
+    ├── Address Book
+    ├── Payment Options
+    └── Logout
 
-Help
-├── FAQs
-└── Contact Support
+    Help
+    ├── FAQs
+    └── Contact Support
 
 
 
