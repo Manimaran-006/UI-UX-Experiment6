@@ -164,7 +164,3 @@ Site Map Structure:
 
 The experiment was successfully completed.
 Through this activity, we practiced structured UX design tasks — ideation, user story writing, scenario creation, flow mapping, and information architecture. The exercise improved understanding of how to organize app functions logically and design intuitive, user-centered experiences for a food delivery platform.
-
-
-
-Would you like me to make a hospital-based version (like your previous experiment) or another e-commerce website version for variety in your lab record?
